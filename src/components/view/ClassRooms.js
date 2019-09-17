@@ -6,7 +6,7 @@ class ClassRooms extends React.Component{
 
     render() {
 
-        const elements = ['one', 'two', 'three','asd'];
+        const elements = ['one', 'two', 'three','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd','asd'];
 
         const items = [];
 
