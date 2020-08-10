@@ -3,28 +3,28 @@
       "id":"1",
       "title":"Round Neck Dress",
       "titlePosition":"right",
-      "image":"ecommerce_2_img_1.jpg",
-      "numItems":"12 items"
+      "image":"https://github.com/maifeeulasad/StackOverFlow-Share/blob/rest-test/images/fish.jpg",
+      "numItems":"12"
    },
    {
       "id":"2",
       "title":"Retro Printed Dress",
       "titlePosition":"left",
-      "image":"ecommerce_2_img_2.jpg",
-      "numItems":"12 items"
+      "image":"https://raw.githubusercontent.com/maifeeulasad/StackOverFlow-Share/rest-test/images/roti.jpg",
+      "numItems":"12"
    },
    {
       "id":"3",
       "title":"Seamed Plain Dress",
       "titlePosition":"right",
       "image":"ecommerce_2_img_3.jpg",
-      "numItems":"12 items"
+      "numItems":"12"
    },
    {
       "id":"4",
       "title":"Retro Printed Dress",
       "titlePosition":"left",
       "image":"ecommerce_2_img_2.jpg",
-      "numItems":"12 items"
+      "numItems":"12"
    }
 ]
