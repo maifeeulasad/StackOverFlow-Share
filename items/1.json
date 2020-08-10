@@ -1,6 +1,30 @@
 [
-    {id: '1', title: 'Round Neck Dress', titlePosition: 'right', image: 'ecommerce_2_img_1.jpg', numItems: '12 items'},
-    {id: '2', title: 'Retro Printed Dress', titlePosition: 'left', image: 'ecommerce_2_img_2.jpg', numItems: '12 items'},
-    {id: '3', title: 'Seamed Plain Dress', titlePosition: 'right', image: 'ecommerce_2_img_3.jpg', numItems: '12 items'},
-    {id: '4', title: 'Retro Printed Dress', titlePosition: 'left', image: 'ecommerce_2_img_2.jpg', numItems: '12 items'},
+   {
+      "id":"1",
+      "title":"Round Neck Dress",
+      "titlePosition":"right",
+      "image":"ecommerce_2_img_1.jpg",
+      "numItems":"12 items"
+   },
+   {
+      "id":"2",
+      "title":"Retro Printed Dress",
+      "titlePosition":"left",
+      "image":"ecommerce_2_img_2.jpg",
+      "numItems":"12 items"
+   },
+   {
+      "id":"3",
+      "title":"Seamed Plain Dress",
+      "titlePosition":"right",
+      "image":"ecommerce_2_img_3.jpg",
+      "numItems":"12 items"
+   },
+   {
+      "id":"4",
+      "title":"Retro Printed Dress",
+      "titlePosition":"left",
+      "image":"ecommerce_2_img_2.jpg",
+      "numItems":"12 items"
+   }
 ]
