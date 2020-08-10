@@ -1,30 +1,6 @@
 [
-  {
-    "id":1,
-    "name":"test1",
-    "quantity":100,
-    "price":20,
-    "image":"https://raw.githubusercontent.com/maifeeulasad/StackOverFlow-Share/rest-test/images/onion.jpg",
-  },
-  {
-    "id":2,
-    "name":"test2",
-    "quantity":200,
-    "price":40,
-    "image":"https://raw.githubusercontent.com/maifeeulasad/StackOverFlow-Share/rest-test/images/fish.jpg",
-  },
-  {
-    "id":3,
-    "name":"test3",
-    "quantity":300,
-    "price":60,
-    "image":"https://raw.githubusercontent.com/maifeeulasad/StackOverFlow-Share/rest-test/images/rice.jpg"
-  },
-  {
-    "id":4,
-    "name":"test4",
-    "quantity":400,
-    "price":80,
-    "image":"https://raw.githubusercontent.com/maifeeulasad/StackOverFlow-Share/rest-test/images/roti.jpg"
-  },
+    {id: '1', title: 'Round Neck Dress', titlePosition: 'right', image: 'ecommerce_2_img_1.jpg', numItems: '12 items'},
+    {id: '2', title: 'Retro Printed Dress', titlePosition: 'left', image: 'ecommerce_2_img_2.jpg', numItems: '12 items'},
+    {id: '3', title: 'Seamed Plain Dress', titlePosition: 'right', image: 'ecommerce_2_img_3.jpg', numItems: '12 items'},
+    {id: '4', title: 'Retro Printed Dress', titlePosition: 'left', image: 'ecommerce_2_img_2.jpg', numItems: '12 items'},
 ]
