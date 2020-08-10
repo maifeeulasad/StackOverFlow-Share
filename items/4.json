@@ -1,0 +1,26 @@
+[
+  {
+    "id":1,
+    "name":"test1",
+    "quantity":100,
+    "price":20
+  },
+  {
+    "id":2,
+    "name":"test2",
+    "quantity":200,
+    "price":40
+  },
+  {
+    "id":3,
+    "name":"test3",
+    "quantity":300,
+    "price":60
+  },
+  {
+    "id":4,
+    "name":"test4",
+    "quantity":400,
+    "price":80
+  },
+]
